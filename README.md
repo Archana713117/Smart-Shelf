@@ -34,7 +34,7 @@ Instead of a single model, SmartShelf uses a category-aware multi-model approach
 |-------------|------|
 | Vegetables | EfficientNet-B0 |
 | Fruits | MobileNet |
-| Meat & Seafood | EfficientNet-B2 |
+| Meat & Seafood | EfficientNet-B4 |
 | Bread/Bakery | MSFFS |
 
 The system detects the food category and routes the image to the appropriate model for accurate spoilage prediction.
